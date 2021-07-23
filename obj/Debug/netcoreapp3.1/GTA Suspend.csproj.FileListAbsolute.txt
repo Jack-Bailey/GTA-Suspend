@@ -1,0 +1,15 @@
+C:\Users\jack\OneDrive\Tech Stuff\GTAV\GTA Suspend\bin\Debug\netcoreapp3.1\GTA Suspend.exe
+C:\Users\jack\OneDrive\Tech Stuff\GTAV\GTA Suspend\bin\Debug\netcoreapp3.1\GTA Suspend.deps.json
+C:\Users\jack\OneDrive\Tech Stuff\GTAV\GTA Suspend\bin\Debug\netcoreapp3.1\GTA Suspend.runtimeconfig.json
+C:\Users\jack\OneDrive\Tech Stuff\GTAV\GTA Suspend\bin\Debug\netcoreapp3.1\GTA Suspend.runtimeconfig.dev.json
+C:\Users\jack\OneDrive\Tech Stuff\GTAV\GTA Suspend\bin\Debug\netcoreapp3.1\GTA Suspend.dll
+C:\Users\jack\OneDrive\Tech Stuff\GTAV\GTA Suspend\bin\Debug\netcoreapp3.1\GTA Suspend.pdb
+C:\Users\jack\OneDrive\Tech Stuff\GTAV\GTA Suspend\obj\Debug\netcoreapp3.1\GTA Suspend.csproj.AssemblyReference.cache
+C:\Users\jack\OneDrive\Tech Stuff\GTAV\GTA Suspend\obj\Debug\netcoreapp3.1\GTA_Suspend.Form1.resources
+C:\Users\jack\OneDrive\Tech Stuff\GTAV\GTA Suspend\obj\Debug\netcoreapp3.1\GTA Suspend.csproj.GenerateResource.cache
+C:\Users\jack\OneDrive\Tech Stuff\GTAV\GTA Suspend\obj\Debug\netcoreapp3.1\GTA Suspend.AssemblyInfoInputs.cache
+C:\Users\jack\OneDrive\Tech Stuff\GTAV\GTA Suspend\obj\Debug\netcoreapp3.1\GTA Suspend.AssemblyInfo.cs
+C:\Users\jack\OneDrive\Tech Stuff\GTAV\GTA Suspend\obj\Debug\netcoreapp3.1\GTA Suspend.csproj.CoreCompileInputs.cache
+C:\Users\jack\OneDrive\Tech Stuff\GTAV\GTA Suspend\obj\Debug\netcoreapp3.1\GTA Suspend.dll
+C:\Users\jack\OneDrive\Tech Stuff\GTAV\GTA Suspend\obj\Debug\netcoreapp3.1\GTA Suspend.pdb
+C:\Users\jack\OneDrive\Tech Stuff\GTAV\GTA Suspend\obj\Debug\netcoreapp3.1\GTA Suspend.genruntimeconfig.cache

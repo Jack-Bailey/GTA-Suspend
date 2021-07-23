@@ -1,0 +1,5 @@
+C:\Users\jack\OneDrive\Tech Stuff\GTAV\Release\GTA Suspend.exe
+C:\Users\jack\OneDrive\Tech Stuff\GTAV\Release\GTA Suspend.dll
+C:\Users\jack\OneDrive\Tech Stuff\GTAV\Release\GTA Suspend.deps.json
+C:\Users\jack\OneDrive\Tech Stuff\GTAV\Release\GTA Suspend.runtimeconfig.json
+C:\Users\jack\OneDrive\Tech Stuff\GTAV\Release\GTA Suspend.pdb
